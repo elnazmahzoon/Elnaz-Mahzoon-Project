@@ -229,4 +229,10 @@ footer .social-links a {
     body {
         text-align: center;
     }
+    h1{
+        font-size: 64px;
+    }
+    h2{
+        font-size: 55px;
+    }
 }
